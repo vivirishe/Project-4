@@ -16,9 +16,6 @@ Javascript: Node.js, Express, jQuery
 
 Front End: Angular, HTML5, CCS3
 
-##Wireframes
-
-
 
 ##Project Planning
 
@@ -26,7 +23,7 @@ Front End: Angular, HTML5, CCS3
 ![logo](https://d13yacurqjgara.cloudfront.net/users/540920/screenshots/2360020/sans-titre---1_teaser.png)
 
 
-###[Wireframes](https://drive.google.com/file/d/0BxJyeBpeqJ0RY3RPcVVDUmpibzQ/view?usp=sharing)
+
 
 ##Unsolved Problems
 
