@@ -10,12 +10,13 @@ With large telecommunications projects, the project manager may have trouble kee
 
 ##Technologies Used
 
-Back End: MongoDB, RoboMongo (data vizualization)
+Back End: MongoDB, Express, Node.js
 
-Javascript: Node.js, Express, jQuery
+Front End: Angular
 
-Front End: Angular, HTML5, CCS3
+Libraries: Bootstrap
 
+![logo](https://meanstacktips.files.wordpress.com/2015/09/cropped-mean-stack-logo1.jpg)
 
 ##Project Planning
 
