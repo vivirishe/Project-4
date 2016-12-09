@@ -6,7 +6,7 @@
 
 ##General Approach
 
-With large telecommunications projects, the project manager may have trouble keeping track of who is doing what. As a result, the team may not be operating at maximum efficiency. Some team members may be overloaded, while others are not busy enough. "Easy Projects’ resource tracking feature" allows PMs to stay up to date on people’s work load for maximum project efficiency.
+With large telecommunications projects, the project manager may have trouble keeping track of who is doing what. As a result, the team may not be operating at maximum efficiency. Some team members may be overloaded, while others are not busy enough. "Telecom Project Management Software" resource tracking feature" allows PMs to stay up to date on people’s work load for maximum project efficiency.
 
 ##Technologies Used
 
