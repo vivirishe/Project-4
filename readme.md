@@ -1,8 +1,12 @@
-# **TBD**
 
-## *Telecom Project Management Software*
+
+## *Project Management Software*
 
 ![banner](http://www.gmc-telecom.com/wp-content/uploads/2015/09/antenas-futuro-labs-infraestructura-telecomunicaciones-ipsos-peruanos-peruanos-antenas-smartphones-telecomunicaciones-telecomunicaciones-en-el-peru.png)
+
+##Links
+Front-End - ###[Repo](https://github.com/vivirishe/TPM-Software_frontend)
+Back-End - ###[Repo](https://github.com/vivirishe/TPM-Software_backend)
 
 ##General Approach
 
@@ -27,4 +31,3 @@ Libraries: Bootstrap
 
 
 ##Unsolved Problems
-
