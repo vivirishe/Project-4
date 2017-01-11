@@ -2,7 +2,7 @@
 
 ## *Project Management Software*
 
-![banner](http://www.gmc-telecom.com/wp-content/uploads/2015/09/antenas-futuro-labs-infraestructura-telecomunicaciones-ipsos-peruanos-peruanos-antenas-smartphones-telecomunicaciones-telecomunicaciones-en-el-peru.png)
+![banner](https://blogs.manageengine.com/wp-content/uploads/2015/02/5-Best-Practices-to-Be-a-Successful-Project-Manager.jpg)
 
 ##Links
 Front-End:
@@ -12,7 +12,7 @@ Back-End:
 
 ##General Approach
 
-With large telecommunications projects, the project manager may have trouble keeping track of who is doing what. As a result, the team may not be operating at maximum efficiency. Some team members may be overloaded, while others are not busy enough. "Telecom Project Management Software" resource tracking feature" allows PMs to stay up to date on people’s work load for maximum project efficiency.
+With large projects, the project manager may have trouble keeping track of who is doing what. As a result, the team may not be operating at maximum efficiency. Some team members may be overloaded, while others are not busy enough. "Project Management Software" allows PMs to stay up to date on people’s work load for maximum project efficiency.
 
 ##Technologies Used
 
